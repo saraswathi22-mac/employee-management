@@ -56,7 +56,7 @@ const Employee = ({employee}) => {
         </Modal.Body>
         <Modal.Footer>
                 <Button variant="secondary" onClick={handleClose}>
-                    Close Button
+                    Close
                 </Button>
         </Modal.Footer>
     </Modal>

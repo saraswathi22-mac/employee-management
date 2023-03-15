@@ -1,3 +1,5 @@
-# employee-management
+- npm init vite@latest
 
-- This is a react CRUD app using modal
+- npm i -D tailwindcss postcss autoprefixer
+
+- npx tailwindcss init -p
